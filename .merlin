@@ -1,0 +1,4 @@
+PKG js_of_ocaml
+SRC .
+B .
+EXT js
